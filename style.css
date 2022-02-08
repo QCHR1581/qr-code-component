@@ -1,0 +1,48 @@
+
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.box {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 99.49vh;
+}
+
+img {
+    border-radius: 5%;
+    margin: 13px 10px 2px 16px;
+    width: 18em;
+    width: 18rem;
+}
+
+.text {
+    font-size: 50%;
+    text-align: center;
+    font-family: "Outfit", sans-serif; 
+}
+
+h1 {
+    font-size: 260%;
+    font-weight: 700;
+}
+
+p {
+    font-size: 200%;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+
+
+.rectangle {
+    border-radius: 5%;
+    width: 20rem;
+    height: 30rem;
+    background-color: white;
+}
+
