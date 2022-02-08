@@ -25,8 +25,7 @@ Screenshot from my solution:
 
 ### Links
 
-- Solution URL: [Add solution URL here](index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://qchr1581.github.io/qr-code-component/)
 
 ## My process
 
